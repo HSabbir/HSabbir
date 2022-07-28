@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <imge src="https://tenor.com/view/programmer-gif-19019116" width="600" height="300"/>
+  <img src="https://tenor.com/view/programmer-gif-19019116" width="600" height="300"/>
 </div>
 
 ### Hi there 👋
